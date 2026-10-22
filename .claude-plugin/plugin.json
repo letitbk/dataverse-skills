@@ -1,0 +1,11 @@
+{
+  "name": "dataverse-skills",
+  "version": "1.0.0",
+  "description": "Sync a local replication package with a Harvard Dataverse dataset through the API, including a workaround for blocked code uploads.",
+  "author": {
+    "name": "Byungkyu Lee"
+  },
+  "homepage": "https://github.com/letitbk/dataverse-skills",
+  "repository": "https://github.com/letitbk/dataverse-skills",
+  "license": "MIT"
+}

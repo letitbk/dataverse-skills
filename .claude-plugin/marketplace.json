@@ -1,0 +1,17 @@
+{
+  "name": "dataverse-skills",
+  "description": "Sync a local replication package with a Harvard Dataverse dataset through the API, including a workaround for blocked code uploads.",
+  "owner": {
+    "name": "letitbk"
+  },
+  "plugins": [
+    {
+      "name": "dataverse-skills",
+      "source": "./",
+      "description": "Sync a local replication package with a Harvard Dataverse dataset through the API, including a workaround for blocked code uploads.",
+      "author": {
+        "name": "Byungkyu Lee"
+      }
+    }
+  ]
+}
